@@ -1,2 +1,7 @@
-# demo-construccion-martin-e-hijos
-Demo web para CONSTRUCCION MARTIN E HIJOS — diseñada por eterlab.
+# CONSTRUCCION MARTIN E HIJOS
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
